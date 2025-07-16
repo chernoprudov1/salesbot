@@ -1,8 +1,5 @@
-
 python-telegram-bot[job-queue]==20.3
-nest_asyncio
+aiohttp
 matplotlib
 pandas
 openpyxl
-aiohttp
-
